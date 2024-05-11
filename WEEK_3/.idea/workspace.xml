@@ -13,9 +13,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2g6VJuio1dWFv3HVCiQ4Wdx9HdW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,7 +27,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Mohamed/OneDrive/Desktop/java/WEEK_3",
+    "last_opened_file_path": "C:/Users/Mohamed/OneDrive/Desktop/java/collection",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -49,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715017945654</updated>
       <workItem from="1715017946729" duration="58000" />
+      <workItem from="1715438426895" duration="49000" />
     </task>
     <servers />
   </component>
